@@ -1,0 +1,18 @@
+package com.edu.oop;
+
+public class NoteBook {
+	public String Notebook_brand;
+	public int Notebook_price;
+	public String Notebook_sn;
+	public void printNoteBookInfo() { //메소드 선언부
+		System.out.println(Notebook_brand + " , " + Notebook_sn + "," + Notebook_sn); //메소드 구현부
+	/*
+	 * 1. member variable == field (브랜드, 가격, sn)
+	 * 2. method - 노트북의 정보를 출력하는 기능
+	 *    printNoteBookInfo()
+	 *   
+	 * 
+	 */
+	
+	
+}

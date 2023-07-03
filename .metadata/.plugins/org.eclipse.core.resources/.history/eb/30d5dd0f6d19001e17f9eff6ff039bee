@@ -1,0 +1,23 @@
+package com.edu.oop.test;
+
+import com.edu.oop.NoteBook;
+
+public class NoteBookTest {
+
+	public static void main(String[] args) {
+		/*
+		 * 실행 클래스는 딱 2개를 실행한다
+		 * 1. <<필드 초기화(Field Initialization)>>
+		 * 2. Method Calling
+		 */
+		NoteBook n = new NoteBook();
+		
+		n.Notebook_brand = "samsung";
+		n.Notebook_price = 1000000;
+		n.Notebook_sn = 111;
+		
+		
+		n.printNoteBookInfo();
+	}
+
+}

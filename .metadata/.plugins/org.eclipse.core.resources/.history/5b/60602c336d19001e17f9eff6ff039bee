@@ -1,0 +1,22 @@
+package com.edu.oop;
+// 노트북에 관련된 정보를 저장하는 클래스
+public class NoteBook {
+	
+	// 필드 선언
+	public String brand;
+	public int price;
+	public int serialNumber;//캐멀표기법 준수
+	
+	//메소드 정의(선언부+구현부)
+	public void printNoteBookInfo() { //메소드 선언부
+		System.out.println(brand + ", " + price + ", " + serialNumber);
+	}
+	
+	/*
+	 * 1. member variable == field (브랜드, 가격, sn)
+	 * 2. method - 노트북의 정보를 출력하는 기능
+	 *    printNoteBookInfo()
+	 */
+	
+	
+}

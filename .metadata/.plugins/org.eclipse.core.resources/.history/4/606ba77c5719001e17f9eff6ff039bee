@@ -1,0 +1,11 @@
+package com.edu;
+
+public class Greeting {
+
+	public static void main(String[] args) {
+		//콘솔창으로 메세지를 출력하는 기능. sysout 입력후 ctrl + space
+		System.out.println("kb life 4기 여러분 반갑습니다.");
+
+	}
+
+}
