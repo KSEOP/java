@@ -2,4 +2,13 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="com.edu.oop.Greet"/>
     <fullyQualifiedTypeName name="com.edu.oop.NoteBook"/>
+    <fullyQualifiedTypeName name="com.edu.bank.Customer"/>
+    <fullyQualifiedTypeName name="com.edu.bank.Account"/>
+    <fullyQualifiedTypeName name="java.nio.file.FileSystemNotFoundException"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="com.edu.capsulation.MyDate"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.edu.condition2.test.CatchAMouseTest"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
