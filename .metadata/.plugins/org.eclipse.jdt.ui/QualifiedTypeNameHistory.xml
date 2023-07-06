@@ -11,4 +11,5 @@
     <fullyQualifiedTypeName name="com.edu.condition2.test.CatchAMouseTest"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.edu.domain.NoteBook"/>
 </qualifiedTypeNameHistroy>
