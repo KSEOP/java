@@ -57,6 +57,7 @@ public class MultidimensionalArrayByNewExample {
 		for (int i = 0; i < englishScores.length; i++) { // 반의 수 만큼 반복
 			totalStudent += englishScores[i].length; // 반의 학생 수 합산
 			for (int k = 0; k < englishScores[i].length; k++) { // 해당 반의 학생 수 만큼 반복
+				// totalStudent += 1; 이렇게 해도 되긴된다.
 				totalEnglishSum += englishScores[i][k]; // 학생 점수 합산
 			}
 		}

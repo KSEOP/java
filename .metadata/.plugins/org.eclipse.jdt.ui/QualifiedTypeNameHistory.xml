@@ -3,7 +3,6 @@
     <fullyQualifiedTypeName name="com.edu.oop.Greet"/>
     <fullyQualifiedTypeName name="com.edu.oop.NoteBook"/>
     <fullyQualifiedTypeName name="com.edu.bank.Customer"/>
-    <fullyQualifiedTypeName name="com.edu.bank.Account"/>
     <fullyQualifiedTypeName name="java.nio.file.FileSystemNotFoundException"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="com.edu.capsulation.MyDate"/>
@@ -12,4 +11,17 @@
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="com.edu.domain.NoteBook"/>
+    <fullyQualifiedTypeName name="com.edu.domain.Employee"/>
+    <fullyQualifiedTypeName name="com.edu.util.MyDate"/>
+    <fullyQualifiedTypeName name="com.edu.bank.Account"/>
+    <fullyQualifiedTypeName name="com.edu.service.ProductService"/>
+    <fullyQualifiedTypeName name="com.edu.vo.Product"/>
+    <fullyQualifiedTypeName name="com.edu.vo.Customer"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.Collection"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="com.edu.sort.test.Person"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
 </qualifiedTypeNameHistroy>
