@@ -19,7 +19,8 @@ public class C_순열_Test {
 			//	[0] 종료조건(n관련) 확인 후 정답처리
 			if (n==N) {
 				//	정답에 관련된 처리 진행
-				for(int t: ans) System.out.print(t);
+				for(int t: ans) {System.out.print(t);}
+				
 				System.out.println();
 				cnt++;
 				return;
