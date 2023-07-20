@@ -1,4 +1,4 @@
-package day8.graph;
+package day08.graph;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
