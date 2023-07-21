@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.util.StringTokenizer;
 import java.io.InputStreamReader;
 
-public class colorpaper2563 {
+public class B2563_색종이 {
 
 	public static void main(String[] args) throws IOException {
 

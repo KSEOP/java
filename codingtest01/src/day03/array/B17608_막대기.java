@@ -3,7 +3,7 @@ package day03.array;
 import java.io.*;
 import java.util.*;
 
-public class 막대기_17608 {
+public class B17608_막대기 {
 
 	public static void main(String[] args) throws IOException {
 		/*

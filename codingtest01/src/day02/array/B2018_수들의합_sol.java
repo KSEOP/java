@@ -3,7 +3,7 @@ package day02.array;
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class B2018_sol {
+public class B2018_수들의합_sol {
 
 	public static void main(String[] args) throws IOException {
 

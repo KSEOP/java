@@ -3,7 +3,7 @@ package day03.array;
 import java.io.*;
 import java.util.*;
 
-public class Stack1874 {
+public class B1874_스택수열 {
 
 	public static void main(String[] args) throws IOException{
 		

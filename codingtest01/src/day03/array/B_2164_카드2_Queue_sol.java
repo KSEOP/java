@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.io.*;
 
-public class B_2164_Queue_sol {
+public class B_2164_카드2_Queue_sol {
 
 	public static void main(String[] args) throws IOException {
 
