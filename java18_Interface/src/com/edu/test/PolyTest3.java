@@ -28,7 +28,7 @@ public class PolyTest3 {
 		};
 				
 		//Service 객체 생성 == 메모리에 기능을 로딩 시킴
-		EmployeeService service = new EmployeeServiceImpl();
+		EmployeeService service = EmployeeServiceImpl.getInstance();
 		
 		System.out.println("\n=====1. 직원 정보를 출력합니다 =====");
 		service.printAllEmployee(emps);

@@ -10,7 +10,7 @@ public class MyDate {
 		this.month = month;
 		this.day = day;
 	}
-	public String getDate() {
+	public String toString() {
 		return year+"-"+month+"-"+day;
 	}	
 }
